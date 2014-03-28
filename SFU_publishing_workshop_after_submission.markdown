@@ -19,11 +19,11 @@ SA: maybe mention that you can check the submission to acceptance dates on some 
 Sometimes. Its never a good idea to piss off the editor, but if you've been waiting considerably longer than the estimated times provided by the journal *politely* checking in about the status of your paper is okay. Your advisor/senior collaborators are good people to ask if you're unsure, and might even be willing to get in touch with the editor on your behalf.
 
 ## Rejected?
-XX% of papers get rejected, so don't be disheartened. It's not necessarily a reflection on the quality of your work. A surprising number of seminal papers were rejected on their first submission. For example, the paper that came up with the concept of trophic levels got rejected when it was first submitted [@Lindeman:1942]. You'll probably end up with a better, more-widely-read paper once you've taken the reviewers' concerns on board.
+XX% of papers get rejected, so don't be disheartened. It's not necessarily a reflection on the quality of your work. A surprising number of seminal papers were rejected on their first submission. For example, the paper that came up with the concept of trophic levels got rejected when it was first submitted [@Lindeman:1942]. You'll probably end up with a better, more widely-read paper once you've taken the reviewers' concerns on board.
 
 An increasing number of Journals now have "trickle-down" (or "dumping ground", depending on your level of cynicism) sister journals. A couple of examples are Ecosphere for Ecology, Ecosystems for Ecology letters, and Nature has several topic-specific sub-journals like Nature Climate Change, and there are many others. If the editor thinks your paper is good but not quite sexy enough for the flagship journal, the rejection may come with an invitation to "transfer your submission" or "automatically resubmit" to the sister journal. 
 
-If you get the option, transferring your submission to such a "trickle down" journal can be a very convenient and time-effective way to fast-track publication. Often your reviews carry over. 
+If you get the option, transferring your submission to such a "trickle-down" journal can be a very convenient and time-effective way to fast-track publication. Often your reviews carry over. 
 The disadvantage is that you may want to get the paper somewhere higher-profile than the trickle-down option. In that case, you have to figure out the trade-off of potential benefits vs. the time cost and risk of another rejection if you do resubmit. 
 
 If you do decide to resubmit elsewhere, *implement suggested changes you got from the first review*. You could well get the same reviewers at the new journal and you don't want to piss them off! And you'll probably end up with a better paper --- that's the point of peer review.
@@ -81,5 +81,3 @@ SA: some other things:
 - How to piss off editors article
 - [A nice blog post on how to write rebuttals to reviewer comments](http://matt.might.net/articles/peer-review-rebuttals)
 - Countless other blogs and papers
-
-
