@@ -71,6 +71,8 @@ SA: some other things:
 - keep in mind that the reviewers (and/or a new reviewer) may read what you right... regardless, write assuming they will read it
 - pick your battles wisely... you can sometimes push back on a limited number of reviewer requests, but for the most part you need to just do it. If you're indifferent one way or other, just do it so you can push back where you feel it is important.
 
+- remember that the reviewers volunteered to offer you comments to improve your work --- always take the tone of thankfullness in your response. Make sure to get across that you're thankful for the reviewer's suggestions and emphasize how the changes have improved the manuscript.
+
 # Resources
 - [BES guide to Peer Review in Ecology and Evolution](http://www.britishecologicalsociety.org/wp-content/uploads/Publ_Peer-Review-Booklet.pdf)
 - [Griffith University guide on How to write Ecology Research Papers](<https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCgQFjAA&url=http%3A%2F%2Fwww.griffith.edu.au%2F__data%2Fassets%2Fpdf_file%2F0007%2F435526%2FWriting-Ecology-Research-Papers-July-2012.pdf&ei=QHAzU97cL4XtoASU44DwBQ&usg=AFQjCNETmGdH64aWIK9cdKO-g2i9LTl2nA&sig2=bNmGEzkhR8Ucz_pzrd1uAQ&bvm=bv.63808443,d.cGU>)
