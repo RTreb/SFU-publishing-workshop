@@ -1,2 +1,6 @@
+*.aux
+*.log
+*.out
+*.key*
 *.pdf
 *.mindnode
