@@ -2,29 +2,37 @@
     hints for what to do after submission - responding to reviewers etc
 -->
 
+\title{I've submitted a paper. What happens now?}
+\author{Rowan Trebilco}
+\maketitle
+
+\begin{center}
+	April 2014
+\end{center}
+
 # I've submitted a paper. What happens now?
 
 Hurry up and wait. How long you'll have to wait largely depends on the journal. Different journals have different steps in the editorial/review process, and some are just inherently slower than others. 
 The basic process is summarised in the flow chart below, which comes from the British Ecological Society's guide to peer review (worth reading, especially if you're about to review a manuscript for the first time --- the link is in the resources section). 
-In addition to what's shown in this figure, some especially high-impact journals (Nature and Science... perhaps others) also have "Gatekeeper" reviewers ---  who articles get sent to for a quick verdict on "worth reviewing" vs. "reject without review" before they actually go out for formal review.
+Most journals have a "gate keeper" who pre-screens articles and gives a quick "worth reviewing" vs. "reject without review" verdict before they actually go out for formal review. In most cases the associate editor fills this role (though at some high-impact journals like Nature and Science gatekeepers don't actually work for the journal). 
 
 ![What happens to your paper after you submit it](BES_publishing_flowchart.pdf)
 
 What this boils down to is that, depending on the journal, you should expect to hear back within anywhere from a few hours to a couple of weeks, depending on whether your article has been sent out for review.
 There are horror stories of people not hearing anything for 6 months, only to be told that their MS wasn't even sent out for review, but this definitely qualifies as a time when it's okay to bug the editor (see below), and most of the time you should hear back pretty quickly.
 
-Once your paper has been sent out for review, the fastest-turnaround journals can have reviews back to you within a month. At the slowest journals its not uncommon to wait several months. 
+Once your paper has been sent out for review, the fastest-turnaround journals can have reviews back to you within a month. At the slowest journals it's not uncommon to wait several months. 
 
 Turn-around speed is something to weigh up pretty carefully when submitting papers.
 Often there is a trade-off between publishing somewhere high profile that might have a very slow turn-around, vs. somewhere a bit lower profile with a faster turn-around.
-Getting papers out sooner can be important if you're applying for jobs/scholarships etc., so its something to consider.
+Getting papers out sooner can be important if you're applying for jobs/scholarships etc., so it's something to consider.
 Your supervisors, peers, and other colleagues are your best resource for getting a handle on the turn-around speed of a given journal.
 Journal websites often tell you expected turn-around speed, but the estimates can be be (sometimes wildly) optimistic.
 You can also check the submission, acceptance, and publication dates on some recent articles if the journal publishes these details.
 This is potentially biased though, as it's been suggested that journals are increasingly giving "reject with invitation to resubmit" decisions rather than "accept with major revisions" to make their submission to publication times appear shorter (see Dynamic Ecology blog, link at bottom).
 
 ## When is it okay to bug the editor?
-Sometimes. Its never a good idea to piss off the editor, but if you've been waiting considerably longer than the estimated times provided by the journal, *politely* checking in about the status of your paper is okay.
+Sometimes. It's never a good idea to piss off the editor, but if you've been waiting considerably longer than the estimated times provided by the journal, *politely* checking in about the status of your paper is okay.
 Your advisor/senior collaborators are good people to ask if you're unsure, and might even be willing to get in touch with the editor on your behalf.
 
 ## Rejected?
@@ -51,19 +59,21 @@ Yay! The 3 general ways in which your paper can be *not* rejected are:
 2. Accepted with major revisions.
 3. Invitation to revise and resubmit.
 
-Sometimes it may not be entirely clear from the Editor's letter which category the decision falls into.
-A good rule of thumb is that if the letter doesn't specifically mention the word "rejected", assume its 1 or 2.
+Sometimes it may not be entirely clear from the Editor's letter which category the decision falls into. 
+A good rule of thumb is that if the letter doesn't specifically mention the word "rejected", you can assume it's 1 or 2. 
+If you're not sure, its a good idea to carefully read the editor's letter with your supervisor or senior co-author, as they're likely to have some experience with interpreting editors' decisions.
+
 As mentioned above, option 3 is becoming increasingly common (although some would argue that this decision should never happen in the first place).
 The major difference in this case is that your paper may still be rejected after re-submission so this can be a good time to submit elsewhere if you feel it might be better received at another journal.
 
 ### Responding to reviews
 The overall goal in responding to reviews is to convey the message: "We appreciate and acknowledge your criticism and advice; we understand your misunderstanding; we have fully integrated your feedback" (paraphrased from the Matt Might blog post under Resources). In writing your response letter
 
-**Do:** Be polite, conciliatory and thorough. Do everything you can to make the editors job as easy as possible.\newline{}
+**Do:** Be polite, conciliatory and thorough. Do everything you can to make the editors job as easy as possible. \newline{}
 **Don't:** Tell the editor/reviewer that they don't know what they're talking about, or totally ignore comments if you don't want to change something.
 
 Your response will have two parts: your letter to the editor, and the full response to reviewers. 
-Its normally easier to do the full response to reviewers first; the letter to the editor then summarises what you've done.
+It's normally easier to do the full response to reviewers first; the letter to the editor then summarises what you've done.
 \bigskip{}
 
 *Documenting your revisions*
@@ -73,8 +83,8 @@ Try writing most or all of this before you actually implement changes. This give
 It also helps you identify and figure out how you want to deal with any potential conflicts between revisions the reviewers have requested.
 
 Make this document as easy to navigate as possible.
-One way to do this is to italicise all the reviewer comments, then indent your responses in plain text below each point.
-Another way to do this is to structure the document as a table with column headings something like: 
+Make all the reviewer comments bold or italicized, or even different colour and/or font to your responses, and indent your responses in plain text below each point.
+Another way to make the response easy to navigate is to structure the document as a table with column headings something like: 
 
 \begin{tabular}{ | l | c | c | c | r | }
 \hline
@@ -82,20 +92,19 @@ Another way to do this is to structure the document as a table with column headi
 \hline
 \end{tabular}
 
-I haven't tried this method, but imagine it could get unwieldy if you have numerous or complex revisions.
+I haven't tried this method, but I've been told it can work well for short responses, but gets extremely unwieldy if you have numerous or complex revisions.
 
 Usually reviewers will split their comments into "major" (e.g. restructuring sections, concerns with methods or interpretations) and "minor" (e.g.  editorial changes).
-Its a good idea to deal with the major comments up first.
+It's a good idea to deal with the major comments up first.
 
 Don't be surprised if the response ends up taking a LONG time to write, and is a big document!
-But save yourself, the editor and the reviewers time by using short one-word responses like "Agreed." or "Amended." where appropriate.
+But save yourself, the editor and the reviewers time by using short one-sentence responses that briefly stat your agreement and the action taken; e.g. "Agreed and amended." or "We agree and have amended accordingly." where appropriate.
 
 \bigskip{}
 
 *The letter to the editor*
 
-The letter to the editor gives an succinct overview of your revisions. Making this summary clear and concise is particularly important if the full response is long.
-The letter should almost always include something along the lines of:
+The letter to the editor gives an succinct overview of your revisions. Making this summary clear and concise is particularly important if the full response is long. The ultimate aim of this letter is to convince the editor that your paper is ready to be accepted without going out for further review. It should almost always include something along the lines of:
 
 >"We have addressed all the reviewers concerns and implemented their suggested changes, and in doing so our manuscript has been greatly improved. We have provided a detailed description of specific changes in our response to the reviewers comments (see attached document)."
 
@@ -105,13 +114,14 @@ You can even make the decision to write to the editor rebutting the reviews rath
 
 *Other points to bear in mind when making revisions:*
 
-- Remember that the reviewers volunteered to offer you comments to improve your work --- always take a tone of thankfullness in your response. Make sure to get across that you're thankful for the reviewer's suggestions and emphasize how the changes have improved the manuscript.
-- Be clever about your wording if there are things you don't want to change. Sentences like "We can see that our wording was unclear and we have rewritten lines xxx to yyy to improve clarity. We hope this alleviates the reviewer's concerns." can work well.
+- Remember that the reviewers volunteered to offer you comments to improve your work --- always take a tone of thankfulness in your response. Make sure to get across that you're thankful for the reviewer's suggestions and emphasize how the changes have improved the manuscript.
+- Be clever about your wording if there are things you don't want to change. Sentences like "We can see that our wording was unclear and, following the guidance of the reviewer, we have rewritten lines xxx to yyy to improve clarity. We hope this alleviates the reviewer's concerns." can work well.
 - If the reviewers didn't criticize it, think *very* carefully before touching it; you don't want to create new content that the editor feels needs to be peer reviewed.
 - If you edited the paper in any way besides in response to the reviewers, note it to the editor.
 - Many journals will request a tracked-changes version, some that don't will still appreciate it, some will specifically say not to. Do whatever is requested.
 - Pick your battles wisely... you can sometimes push back on a limited number of reviewer requests, but for the most part you need to just do it. If you're indifferent one way or other, just do it so you can push back where you feel it is important.
 \bigskip{}
+- Remember to thank the reviewers in the acknowledgments.
 
 ## Resources
 
@@ -124,5 +134,5 @@ You can even make the decision to write to the editor rebutting the reviews rath
 5. [Dynamic Ecology Blog post on interpreting Editors' decisions](http://dynamicecology.wordpress.com/2014/03/12/tell-me-again-what-major-revisions-are/)
 <!-- Countless other blogs and papers -->
 
-*Prepared by Rowan Trebilco as a handout for SFU Grad Caucus Publishing workshop, 2014. Sean Anderson provided useful comments and suggestions on an earlier draft.*
+*Prepared as a handout for SFU Grad Caucus Publishing workshop, 2014. Sean Anderson, Nick Dulvy, Heather Brekke and Chris Mull provided useful comments and suggestions.*
 
